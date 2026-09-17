@@ -15,6 +15,7 @@ Projeto desenvolvido em aula de Back-end do SESI Amparo, simulando o cadastro e 
 - 2 Abra com VsCode e em um terminal execute
 
 npm install
+
 npm run dev
 
 - 3 Execute o frontend abrindo o arquivo `client/index.html` com Live Server do VsCode
